@@ -58,10 +58,6 @@ const evi = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -98,22 +94,11 @@ const evi = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-</div>
-
 ## 💭 Daily Motivation
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
 </div>
-
-## 🎵 Coding Playlist
-<div align="center">
-  
-🎶 Currently vibing to: **Lo-fi Hip Hop & Chill Beats** 🎧
-  
-*"Good music = Good code"* ✨
 
 </div>
 
