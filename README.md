@@ -86,30 +86,6 @@ const evi = {
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="100">
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌟 [Portfolio Website](https://github.com/evirestiyani/portfolio)
-✨ My personal portfolio showcasing my projects and skills
-- **Tech Stack:** React, Tailwind CSS, JavaScript
-- **Features:** Responsive Design, Interactive UI, Dark Mode
-- ![GitHub stars](https://img.shields.io/github/stars/evirestiyani/portfolio?style=social)
-
-### 🛍️ [E-Commerce App](https://github.com/evirestiyani/ecommerce-app)
-🛒 A modern e-commerce application with cart and payment features
-- **Tech Stack:** React, MySQL, Bootstrap
-- **Features:** Product Catalog, Shopping Cart, User Authentication
-- ![GitHub stars](https://img.shields.io/github/stars/evirestiyani/ecommerce-app?style=social)
-
-### 📱 [Task Manager](https://github.com/evirestiyani/task-manager)
-📝 A beautiful task management application for productivity
-- **Tech Stack:** JavaScript, HTML, CSS, MySQL
-- **Features:** CRUD Operations, Priority Levels, Due Dates
-- ![GitHub stars](https://img.shields.io/github/stars/evirestiyani/task-manager?style=social)
-
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </div>
