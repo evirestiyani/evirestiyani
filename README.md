@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=✨+Full+Stack+Developer+✨;🚀+Software+Engineer+🚀;🧩+Problem+Solver+🧩;📚+Always+Learning+📚;💖+Code+with+Love+💖" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-</div>
-
 ## 🌸 About Me 
 
 ```javascript
