@@ -1,9 +1,8 @@
-# Hi there! 👋 I'm Evi Restiyani
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling" />
-</div>
-
+👋 Hi there! I'm Evi Restiyani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+%F0%9F%8C%8D;I'm+Evi+Restiyani+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=✨+Full+Stack+Developer+✨;🚀+Software+Engineer+🚀;🧩+Problem+Solver+🧩;📚+Always+Learning+📚;💖+Code+with+Love+💖" alt="Typing SVG" />
 </div>
