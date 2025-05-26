@@ -47,15 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evirestiyani&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
 </div>
 
-## 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evirestiyani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="100">
-</div>
-
 ## 🏅 Achievements & Goals
 
 ### 2024 Goals ✨
