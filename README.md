@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=✨+Full+Stack+Developer+✨;🚀+Software+Engineer+🚀;🧩+Problem+Solver+🧩;📚+Always+Learning+📚;💖+Code+with+Love+💖" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +34,11 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
 
 ## 📈 GitHub Stats
 
@@ -69,7 +71,6 @@
 
 <div align="center">
   
-### Show some ❤️ by starring my repositories!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evirestiyani&color=FF6B9D&style=for-the-badge&label=Profile+Views)
 
