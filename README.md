@@ -1,16 +1,15 @@
 <div align="center">
-<div align="center">
-<!-- HEADER WITH WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Evi%20Restiyani&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Problem%20Solver%20%7C%20Web%20Enthusiast&descAlignY=55&descAlign=50" />
-<!-- TYPING ANIMATION - SUPER UPGRADED! -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=800&height=120&lines=👋+Hello+World!+I'm+Evi!+🌟;💻+Frontend+Developer+%26+UI+Enthusiast+🎨;🚀+Building+Amazing+Web+Experiences+✨;🌈+Let's+Create+Something+Beautiful!+💫;🔥+Code+%7C+Design+%7C+Dream+%7C+Deploy+🚀" alt="Typing SVG" />
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- VISITOR COUNTER WITH STYLE -->
-<img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=for-the-badge&color=purple&labelColor=black" alt="Followers" />
+<!-- ULTRA DYNAMIC HEADER -->
+<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=400&section=header&text=EVI%20RESTIYANI&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=✨%20Frontend%20Developer%20%7C%20Digital%20Artist%20%7C%20Code%20Magician%20✨&descAlignY=60&descAlign=50&descSize=20" />
+<!-- MATRIX STYLE TYPING WITH MULTIPLE COLORS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=1000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🌟+Welcome+to+my+Digital+Universe!+🌟;💎+I+craft+beautiful+experiences+with+code+💎;🚀+React+%7C+Vue+%7C+TypeScript+%7C+Next.js+🚀;✨+Turning+ideas+into+interactive+reality+✨;🎨+Where+creativity+meets+functionality+🎨;💫+Let's+build+the+future+together!+💫" alt="Typing SVG" />
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- DYNAMIC COUNTERS WITH GLOW EFFECT -->
+<img src="https://komarev.com/ghpvc/?username=evirestiyani&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/evirestiyani?label=🌟%20Followers&color=ff69b4&style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
 </div>
-  
 
 ## 🛠️ Tech Stack
 
