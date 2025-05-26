@@ -8,26 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=✨+Full+Stack+Developer+✨;🚀+Software+Engineer+🚀;🧩+Problem+Solver+🧩;📚+Always+Learning+📚;💖+Code+with+Love+💖" alt="Typing SVG" />
 </div>
 
-## 🌸 About Me 
-
-```javascript
-const evi = {
-    pronouns: "She/Her",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "design", "coffee ☕"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "JavaScript", "TypeScript"],
-            css: ["Tailwind CSS", "Bootstrap", "Sass"]
-        },
-        databases: ["MySQL", "MongoDB"],
-        misc: ["Git", "VS Code", "Figma"]
-    },
-    currentFocus: "Building beautiful and functional web applications 💫",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
@@ -98,22 +78,6 @@ const evi = {
 
 </div>
 
-## 🌟 Fun Facts About Me
-
-<div align="center">
-
-```
-🌸 I love pink and purple themes (obviously!)
-☕ Coffee is my debugging fuel
-🌙 I'm a night owl - best code happens after 10 PM
-🎨 I enjoy designing UI/UX in my free time
-📚 Always learning something new in tech
-🎮 Gaming breaks help me think better
-💡 I believe in clean, readable code
-```
-
-</div>
-
 ## 🏅 Achievements & Goals
 
 ### 2024 Goals ✨
@@ -122,14 +86,6 @@ const evi = {
 - [x] Learn TypeScript (In Progress!)
 - [ ] Get 100 GitHub followers
 - [ ] Attend a tech conference
-
-### Achievements 🏆
-- 🎯 Built my first React application
-- 💻 Mastered responsive web design
-- 🌟 Completed 10+ coding projects
-- 📈 Growing my GitHub presence
-
----
 
 <div align="center">
   
