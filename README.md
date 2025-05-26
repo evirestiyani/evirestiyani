@@ -11,9 +11,6 @@
 <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=for-the-badge&color=purple&labelColor=black" alt="Followers" />
 </div>
   
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer+✨;🧩+Problem+Solver+🧩;🚀+Software+Engineer+🚀;💻+Web+Enthusiast+💻;💖+Creating+Beautiful+UI+UX+💖" alt="Typing SVG" />
-</div>
 
 ## 🛠️ Tech Stack
 
