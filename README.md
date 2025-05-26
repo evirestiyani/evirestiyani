@@ -32,15 +32,6 @@ const evi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## 🌈 Current Status
-
-- 🔭 I'm currently working on **Amazing Web Projects**
-- 🌱 I'm currently learning **Advanced React & Node.js**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend Development, UI/UX**
-- 📫 How to reach me: **Let's connect below!**
-- ⚡ Fun fact: **I can code for hours with just coffee and good music! 🎵**
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
@@ -88,11 +79,6 @@ const evi = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evirestiyani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📊 Activity Graph
