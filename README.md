@@ -75,20 +75,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog post title 1](https://yourblog.com/post1)
-- [Blog post title 2](https://yourblog.com/post2)
-- [Blog post title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎵 Currently Listening To
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-</div>
-
----
-
 <div align="center">
   
 ### Show some ❤️ by starring some of my repositories!
