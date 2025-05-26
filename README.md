@@ -84,17 +84,3 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 </div>
-
-<!-- GitHub README extras -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏅 Achievements & Certifications
-- 🎖️ [Certification Name] - [Issuing Organization]
-- 🏆 [Achievement/Award Name] - [Year]
-- 📜 [Another Certification] - [Date]
-
-## 📈 Contribution Calendar
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-⭐️ From [YourName](https://github.com/yourusername)
