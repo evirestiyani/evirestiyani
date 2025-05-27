@@ -1,9 +1,14 @@
 <div align="center">
+
+# Hi, I'm Evi Restiyani 👋
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
+
 <br>
+
 <!-- PROFILE STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
@@ -11,7 +16,6 @@
 </p>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 💻 Languages
@@ -34,15 +38,23 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=evirestiyani&color=FF6B9D&style=for-the-badge&label=Profile+Views)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**"First, solve the problem. Then, write the code."** – John Johnson
+
+</div>
+
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-
 ## 📈 GitHub Stats
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=evirestiyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evirestiyani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages" />
@@ -52,25 +64,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evirestiyani&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
 </div>
 
-## 🏅 Achievements & Goals
-
-### 2024 Goals ✨
+### 2025 Goals ✨
 - [ ] Contribute to 5 open source projects
 - [ ] Build and deploy 3 full-stack applications
 - [x] Learn TypeScript (In Progress!)
 - [ ] Get 100 GitHub followers
 - [ ] Attend a tech conference
 
-<div align="center">
-  
-
-![Profile Views](https://komarev.com/ghpvc/?username=evirestiyani&color=FF6B9D&style=for-the-badge&label=Profile+Views)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**"First, solve the problem. Then, write the code."** – John Johnson
-
-
 </div>
-
-
