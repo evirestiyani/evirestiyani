@@ -1,7 +1,16 @@
 <div align="center">
-Hi, I'm Evi Restiyani 👋
-Frontend Developer • Creative Problem Solver
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+beautiful+interfaces;Passionate+about+clean+code;Always+learning+something+new" alt="Typing animation" />
+<!-- HEADER SECTION -->
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Evi%20Restiyani&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</p>
+<br>
+<!-- PROFILE STATS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=6366f1" alt="followers" />
+</p>
 
 ## 🛠️ Tech Stack
 
