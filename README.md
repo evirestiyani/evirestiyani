@@ -1,13 +1,7 @@
 <div align="center">
-<!-- ELEGANT MINIMALIST HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=280&section=header&text=Evi%20Restiyani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Problem%20Solver&descAlignY=60&descAlign=50&descSize=18" />
-<!-- REFINED TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Crafting+beautiful+digital+experiences;Passionate+about+clean%2C+elegant+code;Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
-<br/>
-<!-- SUBTLE SOCIAL PROOF -->
-<img src="https://img.shields.io/github/followers/evirestiyani?label=followers&style=social" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=evirestiyani&color=blueviolet&style=flat-square&label=profile+views" alt="Profile views" />
-</div>
+Hi, I'm Evi Restiyani 👋
+Frontend Developer • Creative Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+beautiful+interfaces;Passionate+about+clean+code;Always+learning+something+new" alt="Typing animation" />
 
 ## 🛠️ Tech Stack
 
