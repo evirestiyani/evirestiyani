@@ -73,30 +73,12 @@
 
 </div>
 
-<!-- CONNECT SECTION -->
-## 🤝 Let's Connect
+![Profile Views](https://komarev.com/ghpvc/?username=evirestiyani&color=FF6B9D&style=for-the-badge&label=Profile+Views  )
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif  " width="900">
 
----
+**"First, solve the problem. Then, write the code."** – John Johnson
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
-  
-  <p><i>💝 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</i></p>
-  
-  ⭐ *Show some love by starring my repositories!* ⭐
-</div>
 
 </div>
+
