@@ -4,7 +4,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Aspiring+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
 <br>
