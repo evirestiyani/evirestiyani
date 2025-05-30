@@ -62,7 +62,9 @@
 </div>
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" 
+    src="[https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif
+
+]" 
     width="400" 
     style="filter: hue-rotate(330deg) saturate(1.2) brightness(1.4) contrast(1.1); border-radius: 20px; box-shadow: 0 4px 12px rgba(255, 105, 180, 0.5);" 
     alt="cute gif" 
