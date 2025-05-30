@@ -4,14 +4,15 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Aspiring+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Aspiring+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 <br>
 <!-- PROFILE STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=ec4899&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=ec4899" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=FF69B4" alt="followers" />
 </p>
+
 
 ## 🛠️ Tech Stack & Tools
 
