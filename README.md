@@ -61,7 +61,7 @@
 - [ ] Attend a tech conference
 </div>
 <div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="900">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FB7185&height=50&section=header&animation=twinkling" width="900">
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
