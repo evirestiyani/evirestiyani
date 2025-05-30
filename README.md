@@ -61,8 +61,12 @@
 - [ ] Attend a tech conference
 </div>
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" style="filter: hue-rotate(330deg) saturate(0.9) brightness(1.3) contrast(1.1);">
-
+  <img 
+    src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" 
+    width="400" 
+    style="filter: hue-rotate(330deg) saturate(1.2) brightness(1.4) contrast(1.1); border-radius: 20px; box-shadow: 0 4px 12px rgba(255, 105, 180, 0.5);" 
+    alt="cute gif" 
+  >
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
