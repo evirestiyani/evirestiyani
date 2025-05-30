@@ -4,15 +4,13 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Aspiring+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Aspiring+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Crafting+Digital+Experiences+with+Passion;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
-
 <br>
-
 <!-- PROFILE STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=6366f1" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=ec4899&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=ec4899" alt="followers" />
 </p>
 
 ## 🛠️ Tech Stack & Tools
@@ -52,16 +50,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evirestiyani&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+
 ### 2025 Goals ✨
 - [ ] Contribute to 5 open source projects
 - [ ] Build and deploy 3 full-stack applications
 - [x] Learn TypeScript (In Progress!)
 - [ ] Get 100 GitHub followers
 - [ ] Attend a tech conference
-
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif  " width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FB7185&height=120&section=header" width="900"/>
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
