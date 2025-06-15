@@ -10,7 +10,6 @@
 <!-- PROFILE STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=evirestiyani&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/evirestiyani?label=Followers&style=flat&color=FF69B4" alt="followers" />
 </p>
 
 
@@ -52,13 +51,14 @@
 
 <div align="center">
 
-### 2025 Goals ✨
-- [ ] Contribute to 5 open source projects
-- [ ] Build and deploy 3 full-stack applications
-- [x] Learn TypeScript (In Progress!)
-- [ ] Get 100 GitHub followers
-- [ ] Attend a tech conference
-</div>
+## ✨ Goals 2025
+
+- [ ] 🚀 Membangun **3 aplikasi fullstack** (Laravel + React/Flutter)
+- [ ] 🌐 Merilis **website portofolio pribadi** dengan desain modern
+- [ ] 📘 Mempelajari **TypeScript**
+- [x] 🎓 Mengikuti **pelatihan atau seminar teknologi**
+- [ ] 🎨 Meningkatkan **kemampuan UI/UX** untuk pengembangan frontend
+- [ ] ⚛️ Mulai belajar **React.js**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" style="filter: hue-rotate(310deg) saturate(1.5) brightness(1.2) drop-shadow(0 0 10px #FB7185);">
 
